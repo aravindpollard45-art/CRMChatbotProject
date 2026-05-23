@@ -122,6 +122,20 @@ http://localhost:5173
 
 ---
 
+
 # Author
 
 Aravind
+
+---
+
+# Screenshots
+
+## Login Page
+![Login](screenshots/login.png)
+
+## Register Page
+![Register](screenshots/register.png)
+
+## Dashboard
+![Dashboard](screenshots/dashboard.png)
